@@ -1,0 +1,12 @@
+body{
+    background-color: powderblue;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid purple;
+    padding: 30px;
+}
+h3{
+    color: orange;
+}
+p{
+    color: red;
+}
